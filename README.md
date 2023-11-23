@@ -11,8 +11,7 @@ notepad $PROFILE
 A pop-up might appear, proceed with `Yes` and add these two lines at the top of the script,
 ```powershell
 Clear-Host
-# This is just an example path
-C:\User\John Doe\ps-art\pacman.ps1
+C:\User\John Doe\ps-art\pacman.ps1 # An example path
 ```
 **NOTE**: *Mention the absolute path to the* `.ps1` *script file*.
 
