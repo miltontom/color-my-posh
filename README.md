@@ -1,6 +1,5 @@
 # Description
-Terminal color scripts for the windows command-line.
----
+Terminal color scripts for the windows command-line.  
 
 ![](preview/pacman.png)
 # Setup
