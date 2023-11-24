@@ -2,7 +2,8 @@
 Color scripts for the windows command-line.
 
 
-![](preview/pacman.png)
+![](previews/pacman.png)
+
 # Setup
 Open PowerShell and execute,
 ```powershell
