@@ -21,4 +21,4 @@ To see the results perform,
 . $PROFILE
 ```
 
-Next time and every time you open your terminal you can see my pixel art work!
+Next time and every time you open your terminal you can see my pixel artwork!
